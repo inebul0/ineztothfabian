@@ -33,7 +33,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>Hello, I'm [Your Name] 👋</h1>
+    <h1>Hello, I'm Inez Toth-Fabian 👋</h1>
     <p>
       I'm a beginner Virtual Assistant with a background in Human Resources, currently studying at the University of Pécs.
       I help small business owners and freelancers stay organized by taking care of their administrative tasks, email scheduling, and more.
@@ -50,8 +50,8 @@
     </ul>
     <div class="contact">
       <h2>📩 Contact Me</h2>
-      <p>Email: <a href="mailto:your@email.com">your@email.com</a></p>
-      <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">yourprofile</a></p>
+      <p>Email: <a href="mailto:ineztothfabian@gmail.com">ineztothfabian@gmail.com</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/inez-toth-fabian/" target="_blank">inez-toth-fabian</a></p>
     </div>
   </div>
 </body>
